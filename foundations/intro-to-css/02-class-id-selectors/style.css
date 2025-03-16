@@ -1,0 +1,21 @@
+.redbackground {
+    background-color: rgba(207, 92, 92, 0.5);
+    font-size: 18px;
+    font-family:sans-serif;
+}
+
+.bigtext {
+    font-size: 32px;
+}
+
+#blue {
+    font-size: 50px;
+    color: blue;
+    font-weight: 500;
+}
+
+#green {
+    font-size: 32px;
+    background-color: rgba(0, 255, 0, 0.534);
+    font-weight: bolder;
+}
