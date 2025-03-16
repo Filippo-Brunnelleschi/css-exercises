@@ -1,0 +1,16 @@
+button {
+    font-size: 50px;
+    font-family:Helvetica, sans-serif;
+    border-top-color:rgb(114, 114, 114);
+    border-left-color:rgb(114, 114, 114);
+    border-width: 0.1cm;
+}
+#blawhi {
+    background-color: black;
+    color: white;
+}
+
+#blayel {
+    background-color: yellow;
+    color: black;
+}
